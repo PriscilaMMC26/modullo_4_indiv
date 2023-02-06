@@ -17,3 +17,4 @@ Um curso para muitas turmas (1:n),
 Um aluno para muitos cursos (1:n),
 Um facilitador para muitas turmas (1:n),
 Um monitor para muitas turmas (1:n).
+![diagrama](https://github.com/PriscilaMMC26/modullo_4_indiv/blob/main/modulo_4.png)
